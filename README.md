@@ -1,3 +1,6 @@
+Downlaod the VirtualBox VM at: https://1drv.ms/u/s!Arob1m34gP6nh6szx8QgSL-pSlnsFQ
+Or install on your machine mongoDB, mosquitto, node-red, Java and follow the setup instructions.
+
 SETUP INSTRUCTIONS
 
 1. Start a mongodb instance and create three collections (products, travels_test, vehicles) and then insert data through JSON file or 
