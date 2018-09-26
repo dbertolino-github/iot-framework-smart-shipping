@@ -1,5 +1,3 @@
-Download the VirtualBox VM in the release section or setup the project with the following steps.
-
 SETUP INSTRUCTIONS
 
 1 - Start a mongodb instance and create three collections (products, travels_test, vehicles) and then insert data through JSON file or 
