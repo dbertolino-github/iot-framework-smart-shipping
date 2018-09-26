@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="800.0" style="-fx-background-color: GREY;" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="mvc.view.InfoLayoutCtrl">
+   <children>
+      <Label fx:id="tagWritesLabel" alignment="CENTER" cacheShape="false" centerShape="false" focusTraversable="false" prefHeight="100.0" prefWidth="800.0" scaleShape="false" style="-fx-text-fill: WHITE;" text="TAG WRITES" textAlignment="CENTER">
+         <VBox.margin>
+            <Insets top="10.0" />
+         </VBox.margin>
+      </Label>
+      <Label fx:id="tagReadsLabel" alignment="CENTER" cacheShape="false" centerShape="false" focusTraversable="false" prefHeight="100.0" prefWidth="800.0" scaleShape="false" style="-fx-text-fill: WHITE;" text="TAG READS" textAlignment="CENTER">
+         <VBox.margin>
+            <Insets top="10.0" />
+         </VBox.margin>
+      </Label>
+      <Label fx:id="runningVehiclesLabel" alignment="CENTER" cacheShape="false" centerShape="false" focusTraversable="false" prefHeight="100.0" prefWidth="800.0" scaleShape="false" style="-fx-text-fill: WHITE;" text="RUNNING VEHICLES" textAlignment="CENTER">
+         <VBox.margin>
+            <Insets top="10.0" />
+         </VBox.margin>
+      </Label>
+      <Label fx:id="arrivedVehiclesLabel" alignment="CENTER" cacheShape="false" centerShape="false" focusTraversable="false" prefHeight="100.0" prefWidth="800.0" scaleShape="false" style="-fx-text-fill: WHITE;" text="VEHICLES ARRIVED" textAlignment="CENTER">
+         <VBox.margin>
+            <Insets top="10.0" />
+         </VBox.margin>
+      </Label>
+   </children>
+</VBox>

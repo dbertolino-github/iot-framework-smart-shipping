@@ -1,0 +1,225 @@
+{
+    "id": "000",
+    "description": "medicine",
+    "destination": "Milano",
+    "type": "FRIGO",
+    "status": "TOSELL"
+}
+{
+    "id": "001",
+    "description": "freash fruit",
+    "destination": "Como",
+    "type": "FRIGO",
+    "status": "TOSELL"
+}
+{
+    "id": "002",
+    "description": "pens",
+    "destination": "Vergiate",
+    "type": "STANDARD",
+    "status": "TOSELL"
+}
+{
+    "id": "003",
+    "description": "Glass statue",
+    "destination": "Lugano",
+    "type": "FRAGILE",
+    "status": "TOSELL"
+}
+{
+    "id": "004",
+    "description": "smart tv",
+    "destination": "Milano",
+    "type": "FRAGILE",
+    "status": "TOSELL"
+}
+{
+    "id": "005",
+    "description": "medicine2",
+    "destination": "Como",
+    "type": "FRIGO",
+    "status": "TOSELL"
+}
+{
+    "id": "006",
+    "description": "raspberry pi 3",
+    "destination": "Mendrisio",
+    "type": "FRAGILE",
+    "status": "TOSELL"
+}
+{
+    "id": "007",
+    "description": "smartphone",
+    "destination": "Mendrisio",
+    "type": "FRAGILE",
+    "status": "TOSELL"
+}
+{
+    "id": "008",
+    "description": "medicine3",
+    "destination": "Como",
+    "type": "FRIGO",
+    "status": "TOSELL"
+}
+{
+    "id": "009",
+    "description": "medicine4",
+    "destination": "Vergiate",
+    "type": "FRIGO",
+    "status": "TOSELL"
+}
+{
+    "id": "010",
+    "description": "dish washer",
+    "destination": "Lugano",
+    "type": "FRAGILE",
+    "status": "TOSELL"
+}
+{
+    "id": "011",
+    "description": "backpack",
+    "destination": "Milano",
+    "type": "STANDARD",
+    "status": "TOSELL"
+}
+{
+    "id": "012",
+    "description": "medicine4",
+    "destination": "Como",
+    "type": "FRIGO",
+    "status": "TOSELL"
+}
+{
+    "id": "013",
+    "description": "iphone",
+    "destination": "Mendrisio",
+    "type": "FRAGILE",
+    "status": "TOSELL"
+}
+{
+    "id": "014",
+    "description": "fruit2",
+    "destination": "Milano",
+    "type": "FRIGO",
+    "status": "TOSELL"
+}
+{
+    "id": "015",
+    "description": "samsung galaxy",
+    "destination": "Vergiate",
+    "type": "FRAGILE",
+    "status": "TOSELL"
+}
+{
+    "id": "016",
+    "description": "rubber",
+    "destination": "Vergiate",
+    "type": "STANDARD",
+    "status": "TOSELL"
+}
+{
+    "id": "017",
+    "description": "shoes",
+    "destination": "Lugano",
+    "type": "STANDARD",
+    "status": "TOSELL"
+}
+{
+    "id": "018",
+    "description": "apples",
+    "destination": "Lugano",
+    "type": "FRIGO",
+    "status": "TOSELL"
+}
+{
+    "id": "019",
+    "description": "tshirt",
+    "destination": "Mendrisio",
+    "type": "STANDARD",
+    "status": "TOSELL"
+}
+{
+    "id": "020",
+    "description": "dell xps 15",
+    "destination": "Milano",
+    "type": "FRAGILE",
+    "status": "TOSELL"
+}
+{
+    "id": "021",
+    "description": "macbook pro 13",
+    "destination": "Como",
+    "type": "FRAGILE",
+    "status": "TOSELL"
+}
+{
+    "id": "022",
+    "description": "trousers",
+    "destination": "Lugano",
+    "type": "STANDARD",
+    "status": "TOSELL"
+}
+{
+    "id": "023",
+    "description": "glass statue of me",
+    "destination": "Como",
+    "type": "FRAGILE",
+    "status": "TOSELL"
+}
+{
+    "id": "024",
+    "description": "glass statue of Trump",
+    "destination": "Lugano",
+    "type": "FRAGILE",
+    "status": "TOSELL"
+}
+{
+    "id": "025",
+    "description": "vegetables",
+    "destination": "Mendrisio",
+    "type": "FRIGO",
+    "status": "TOSELL"
+}
+{
+    "id": "026",
+    "description": "invicta backpack",
+    "destination": "Milano",
+    "type": "STANDARD",
+    "status": "TOSELL"
+}
+{
+    "id": "027",
+    "description": "watermelons",
+    "destination": "Vergiate",
+    "type": "FRIGO",
+    "status": "TOSELL"
+}
+{
+    "id": "028",
+    "description": "glass statue of Obama",
+    "destination": "Mendrisio",
+    "type": "FRAGILE",
+    "status": "TOSELL"
+}
+{
+    "id": "029",
+    "description": "medicine6",
+    "destination": "Como",
+    "type": "FRIGO",
+    "status": "TOSELL"
+}
+{
+    "id": "030",
+    "description": "medicine7",
+    "destination": "Lugano",
+    "type": "FRIGO",
+    "status": "TOSELL"
+}
+{
+    "id": "031",
+    "description": "oranges",
+    "destination": "Milano",
+    "type": "FRIGO",
+    "status": "TOSELL"
+}
+

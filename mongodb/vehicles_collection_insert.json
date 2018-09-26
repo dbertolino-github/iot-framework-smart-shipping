@@ -1,0 +1,37 @@
+{
+    "id" : "000",
+    "status" : "AVAILABLE",
+    "productID": null,
+    "sensorType" : null,
+    "alarms" : 0
+}
+{
+    "id" : "001",
+    "status" : "AVAILABLE",
+    "productID": null,
+    "sensorType" : null,
+    "alarms" : 0
+}
+{
+    "id" : "002",
+    "status" : "AVAILABLE",
+    "productID": null,
+    "sensorType" : null,
+    "alarms": 0
+}
+{
+    "id" : "003",
+    "status" : "AVAILABLE",
+    "productID": null,
+    "sensorType" : null,
+    "alarms" : 0
+}
+{
+    "id" : "004",
+    "status" : "AVAILABLE",
+    "productID": null,
+    "sensorType" : null,
+    "alarms" : 0
+}
+
+

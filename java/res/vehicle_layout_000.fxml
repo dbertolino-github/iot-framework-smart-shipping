@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="800.0" style="-fx-background-color: GREY;" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="mvc.view.VehicleLayout000Ctrl">
+   <children>
+      <Label fx:id="deliveryTypeLabel0" alignment="CENTER" cacheShape="false" centerShape="false" focusTraversable="false" prefHeight="50.0" prefWidth="800.0" scaleShape="false" text="NOT RUNNING" textFill="WHITE">
+         <VBox.margin>
+            <Insets top="25.0" />
+         </VBox.margin>
+      </Label>
+      <TextArea fx:id="logArea0" cacheShape="false" centerShape="false" editable="false" focusTraversable="false" prefHeight="400.0" prefWidth="600.0" promptText="logs" scaleShape="false" wrapText="true">
+         <VBox.margin>
+            <Insets bottom="25.0" left="100.0" right="100.0" />
+         </VBox.margin>
+      </TextArea>
+   </children>
+</VBox>
