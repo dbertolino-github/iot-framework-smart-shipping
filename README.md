@@ -3,7 +3,7 @@ or install on your machine mongoDB, mosquitto, node-red, Java and follow the set
 
 SETUP INSTRUCTIONS
 
-1. Start a mongodb instance and create three collections (products, travels_test, vehicles) and then insert data through JSON file or 
+1. Start a mongodb instance and create three collections (products, travels_test, vehicles) and then insert data through JSON file 
     or dumps in mongodb folder.
 
 2. Start MQTT broker on default port 1883. (mosquitto, for example)
