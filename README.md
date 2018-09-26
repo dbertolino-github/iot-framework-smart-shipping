@@ -1,5 +1,5 @@
-Downlaod the VirtualBox VM at: https://1drv.ms/u/s!Arob1m34gP6nh6szx8QgSL-pSlnsFQ
-Or install on your machine mongoDB, mosquitto, node-red, Java and follow the setup instructions.
+Downlaod the VirtualBox VM from the release section on GitHub,
+or install on your machine mongoDB, mosquitto, node-red, Java and follow the setup instructions.
 
 SETUP INSTRUCTIONS
 
