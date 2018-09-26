@@ -9,6 +9,8 @@ SETUP INSTRUCTIONS
 
 4 - Import node-red palettes: node-red-contrib-crypto-js, node-red-contrib-mongodb3, node-red-dashboard
 
-5 - Import all node-red flows.
+5. Import all node-red flows.
 
-6 - Connect to the node-red dashboard at: http://localhost:1880/ui/
+6. Connect to the node-red dashboard at: http://localhost:1880/ui/
+
+This project is licensed under the terms of the Apache 2.0 License.
