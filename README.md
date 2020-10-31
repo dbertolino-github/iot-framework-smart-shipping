@@ -15,7 +15,6 @@ Here the real-time dashboards that have been created:
 
 Here a use case diagram of the prototype:
 
-"Database monitoring dashboard"
 ![A test image](screenshots/monitor_use_case.png)
 
 # SETUP INSTRUCTIONS
