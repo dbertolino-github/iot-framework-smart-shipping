@@ -1,7 +1,27 @@
-Downlaod the VirtualBox VM from the release section on GitHub,
-or install on your machine mongoDB, mosquitto, node-red, Java and follow the setup instructions.
+# ABOUT
 
-SETUP INSTRUCTIONS
+The aim of the project was to create a prototype of a Central Monitoring System for smart shipping.
+
+Here the real-time dashboards that have been created:
+
+"Position monitoring dashboard"
+![A test image](screenshots/dashboard_1.png)
+
+"Vehicles monitoring dashboard"
+![A test image](screenshots/dashboard_2.png)
+
+"Database monitoring dashboard"
+![A test image](screenshots/dashboard_3.png)
+
+Here a use case diagram of the prototype:
+
+"Database monitoring dashboard"
+![A test image](screenshots/monitor_use_case.png)
+
+# SETUP INSTRUCTIONS
+
+Downlaod the VirtualBox VM from the release section on GitHub,
+or install on your machine mongoDB, mosquitto, node-red, Java and follow these setup instructions.
 
 1. Start a mongodb instance and create three collections (products, travels_test, vehicles) and then insert data through JSON file 
     or dumps in mongodb folder.
