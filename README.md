@@ -19,7 +19,7 @@ Here a use case diagram of the prototype:
 
 # SETUP INSTRUCTIONS
 
-Downlaod the VirtualBox VM from the release section on GitHub,
+Downlaod the VirtualBox VM here: https://1drv.ms/f/s!Arob1m34gP6nh7pJw3UMnuDyU6yz0Q 
 or install on your machine mongoDB, mosquitto, node-red, Java and follow these setup instructions.
 
 1. Start a mongodb instance and create three collections (products, travels_test, vehicles) and then insert data through JSON file 
